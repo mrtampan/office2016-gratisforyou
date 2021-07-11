@@ -34,6 +34,6 @@ cscript ospp.vbs /setprt:1688
 cscript ospp.vbs /act
 ```
 
-- jika script diatas bisa download file `1click.cmd`. kemudian buka dengan cara klik kanan pilih Run As Administrator
+- jika script diatas tidak bisa, bisa download file `1click.cmd`. kemudian buka dengan cara klik kanan pilih Run As Administrator
 
 
