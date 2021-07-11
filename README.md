@@ -3,6 +3,7 @@ Gratis untuk dirimu seorang
 
 
 Download Office 2016 32 bit: [click here](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProPlusRetail.img)
+
 Download Office 2016 64 bit: [click here](https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/ProPlusRetail.img)
 
 - Install office 2016 nya sampai selesai
