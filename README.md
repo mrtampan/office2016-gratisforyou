@@ -21,7 +21,7 @@ cd C:\Program Files (x86)\Microsoft Office\Office16
 
 Pastikan cek di dalam folder ada file OSPP.vbs.
 
-Lanjut dengan copy perintah ini kedalam cmd:
+- Lanjut dengan copy perintah ini kedalam cmd:
 
 ``
 cscript ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99
@@ -33,7 +33,7 @@ cscript ospp.vbs /setprt:1688
 cscript ospp.vbs /act
 ``
 
-jika script diatas gagal, bisa gunakan kode di bawah ini copy ke cmd langsung:
+- jika script diatas gagal, bisa gunakan kode di bawah ini copy ke cmd langsung:
 
 ``
 cscript ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99
