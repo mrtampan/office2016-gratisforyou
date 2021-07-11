@@ -1,4 +1,4 @@
-#OFFICE 2016 
+# OFFICE 2016 
 Gratis untuk dirimu seorang
 
 
@@ -9,12 +9,12 @@ Download Office 2016 64 bit: [click here](https://officecdn.microsoft.com/db/492
 - Klik kanan CMD pilih Run As Administrator
 - ketik perintah dibawah ini untuk masuk kedalam folder system office16
 
-### 64 bit
+### Lokasi office 64 bit
 ``
 cd C:\Program Files\Microsoft Office\Office16
 ``
 
-### 32 bit
+### Lokasi office 32 bit
 ``
 cd C:\Program Files (x86)\Microsoft Office\Office16
 ``
